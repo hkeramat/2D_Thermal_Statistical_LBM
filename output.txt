@@ -1,0 +1,7 @@
+Comparison against De Vahl Davis (1983):
+xVelocity in yDir=-nan; error(rel)=nan
+yVelocity in xDir=-nan; error(rel)=nan
+yMaxVel / xMaxVel=-nan; error(rel)=nan
+yCoord of xMaxVel=0; error(rel)=1
+xCoord of yMaxVel=0; error(rel)=1
+Nusselt=-nan; error(rel)=nan
